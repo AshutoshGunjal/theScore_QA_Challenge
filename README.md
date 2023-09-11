@@ -13,6 +13,7 @@ Technical Requirements:
 > - A connected mobile device or a virtual device
 > - Appium
 > - Junit
+> - Selenium
 
 
 
